@@ -14,10 +14,6 @@
 - **Frameworks:** React, Node.js, Angular
 - **Tools:** Git, Docker, VS Code, iTurmeric Studio
 
-### 📊 My GitHub Stats
-![Your GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
 <!---
 nixc-med/nixc-med is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
